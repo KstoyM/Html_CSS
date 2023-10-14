@@ -1,0 +1,14 @@
+div {
+  border: 1px solid black;
+}
+
+body {
+  border: 1px solid black;
+  padding: 5px 5px 5px 5px;
+}
+
+p {
+  font-weight: bold;
+  background-color: coral;
+  margin-block: 10%;
+}

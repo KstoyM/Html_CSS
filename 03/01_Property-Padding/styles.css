@@ -1,0 +1,8 @@
+p {
+  font-weight: bold;
+  background-color: coral;
+  padding: 30px 40px 50px 20px;
+  border: 2px solid black;
+  box-shadow: 0 0 0 2px white inset;
+}
+

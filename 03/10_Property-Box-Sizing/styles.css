@@ -1,0 +1,21 @@
+div {
+  width: 160px;
+  height: 80px;
+  padding: 20px;
+  border: 8px solid blue;
+  background: coral;
+  margin: 2px 2px 2px 2px;
+}
+
+body {
+  border: 1px solid black;
+  width: 40%;
+}
+
+.content-box {
+  box-sizing: content-box;
+}
+
+.border-box {
+  box-sizing: border-box;
+}

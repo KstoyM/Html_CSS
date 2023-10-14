@@ -1,0 +1,10 @@
+p {
+  font-weight: bold;
+  background-color: coral;
+  width: 50%;
+  border: 1px solid black;
+  box-shadow: 
+    0 0 0 10px inset white,
+    -20px 0 0 0 white inset;
+  padding: 10px 30px 10px 10px;
+}

@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background: red;
+  color: white;
+}
+
+#two {
+  top: 20px;
+  left: 20px;
+  background: blue;
+  position: absolute;
+}
+
+body {
+  border: 1px solid black;
+  width: fit-content;
+}
+
+div {
+  margin: 2px 2px 10px 2px
+}
