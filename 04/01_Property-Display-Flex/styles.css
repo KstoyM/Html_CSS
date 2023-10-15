@@ -1,0 +1,19 @@
+body {
+  border:1px solid black;
+  width: fit-content;
+  padding: 2px 2px 2px 2px;
+}
+
+.flex-container {
+  background-color: DodgerBlue;
+  width: 300px;
+  display: flex;
+  margin: 0px 10px 7px 2px;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
